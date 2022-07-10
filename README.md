@@ -1,0 +1,2 @@
+# veriYapilariVeAlgoritmalar
+patika.Dev
